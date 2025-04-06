@@ -1,0 +1,13 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "A fitness tracking application",
+  "main": "fitness/js/script.js",
+  "scripts": {
+    "start": "serve fitness"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
+
