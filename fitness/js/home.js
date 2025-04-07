@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Add interactive functionality here
     const ctaButton = document.querySelector('.cta-button');
     
     ctaButton.addEventListener('click', function() {
